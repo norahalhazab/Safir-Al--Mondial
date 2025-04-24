@@ -1,0 +1,41 @@
+📂 Project: SafirALMondialChatbot
+This project is a web-based chatbot designed using Python and HTML, structured and run through PyCharm. It includes the following key components:
+
+1. Python Backend: chatbot.py
+This is the main Python file that uses Flask (or a similar web framework).
+
+When executed, it runs a local web server.
+
+It defines routes and logic that connect the chatbot interface with user input and chatbot responses.
+
+Once you run this file, it will generate a localhost URL (e.g., http://127.0.0.1:5000) in the terminal.
+
+Opening that URL in a browser will take users to the chatbot interface.
+
+2. Templates Folder: templates/index.html
+This is the frontend user interface of the chatbot, written in HTML.
+
+The HTML file is responsible for displaying the chatbot window, buttons, icons, and visual elements.
+
+It’s rendered when users open the URL served by chatbot.py.
+
+3. Static Folder: static/
+This folder contains static assets like images, icons, and custom CSS styles used in the interface.
+
+For example, football-icon.png or other UI-related visuals used in the chatbot window design.
+
+These files are linked in the index.html to provide styling and branding.
+
+🔁 How it Works:
+You run the chatbot by executing chatbot.py.
+
+PyCharm’s terminal (or your console) will display a link like:
+
+nginx
+Copy
+Edit
+Running on http://127.0.0.1:5000/
+Clicking or opening that link in a browser will launch your chatbot.
+
+The HTML page (index.html) will be loaded, styled using assets from the static/ folder, and users can interact with the chatbot in real time.
+
