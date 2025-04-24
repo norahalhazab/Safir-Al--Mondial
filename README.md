@@ -87,6 +87,6 @@ Markets: Example query: "What are the markets in Riyadh for unisex?"
 
 Museums: Example query: "Show me historical museums in Riyadh".
 
-Restaurants: Example query: "Find me restaurants in Riyadh".
+Restaurants: Example query: "Find me restaurants in jeddah".
 
 Fallback: If the message doesn't match any of the above, the chatbot will use Google Gemini to generate a response.
