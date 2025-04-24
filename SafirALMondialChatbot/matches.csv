@@ -1,0 +1,73 @@
+Match ID;Group;Team 1;Team 2;City;Stadium
+1;Group A;England;Portugal;Abha;Abha Sports Stadium
+2;Group A;England;China;Jeddah;King Abdullah Sports City Stadium
+3;Group A;England;Morocco;Khobar;Prince Saud bin Jalawi Stadium
+4;Group A;Portugal;China;Riyadh;King Salman International Stadium
+5;Group A;Portugal;Morocco;Abha;Abha Sports Stadium
+6;Group A;China;Morocco;Abha;Abha Sports Stadium
+7;Group B;Poland;Egypt;Abha;Abha Sports Stadium
+8;Group B;Poland;Denmark;Jeddah;King Abdullah Sports City Stadium
+9;Group B;Poland;Switzerland;Abha;Abha Sports Stadium
+10;Group B;Egypt;Denmark;Abha;Abha Sports Stadium
+11;Group B;Egypt;Switzerland;Neom;NEOM Stadium
+12;Group B;Denmark;Switzerland;Neom;NEOM Stadium
+13;Group C;Costa Rica;Norway;Khobar;Prince Saud bin Jalawi Stadium
+14;Group C;Costa Rica;Japan;Jeddah;Prince Abdullah Al-Faisal Stadium
+15;Group C;Costa Rica;Ivory Coast;Jeddah;King Abdullah Sports City Stadium
+16;Group C;Norway;Japan;Abha;Abha Sports Stadium
+17;Group C;Norway;Ivory Coast;Jeddah;Prince Abdullah Al-Faisal Stadium
+18;Group C;Japan;Ivory Coast;Khobar;Prince Saud bin Jalawi Stadium
+19;Group D;France;South Africa;Khobar;Prince Saud bin Jalawi Stadium
+20;Group D;France;USA;Riyadh;Al Awwal Park Stadium
+21;Group D;France;Iran;Abha;Abha Sports Stadium
+22;Group D;South Africa;USA;Riyadh;King Salman International Stadium
+23;Group D;South Africa;Iran;Neom;NEOM Stadium
+24;Group D;USA;Iran;Abha;Abha Sports Stadium
+25;Group E;Australia;Uruguay;Neom;NEOM Stadium
+26;Group E;Australia;Nigeria;Khobar;Prince Saud bin Jalawi Stadium
+27;Group E;Australia;South Korea;Abha;Abha Sports Stadium
+28;Group E;Uruguay;Nigeria;Khobar;Prince Saud bin Jalawi Stadium
+29;Group E;Uruguay;South Korea;Riyadh;Al Awwal Park Stadium
+30;Group E;Nigeria;South Korea;Neom;NEOM Stadium
+31;Group F;Paraguay;Belgium;Khobar;Prince Saud bin Jalawi Stadium
+32;Group F;Paraguay;Colombia;Khobar;Prince Saud bin Jalawi Stadium
+33;Group F;Paraguay;Netherlands;Neom;NEOM Stadium
+34;Group F;Belgium;Colombia;Neom;NEOM Stadium
+35;Group F;Belgium;Netherlands;Neom;NEOM Stadium
+36;Group F;Colombia;Netherlands;Khobar;Prince Saud bin Jalawi Stadium
+37;Group G;India;Canada;Abha;Abha Sports Stadium
+38;Group G;India;Italy;Abha;Abha Sports Stadium
+39;Group G;India;Greece;Abha;Abha Sports Stadium
+40;Group G;Canada;Italy;Riyadh;King Salman International Stadium
+41;Group G;Canada;Greece;Neom;NEOM Stadium
+42;Group G;Italy;Greece;Riyadh;Al Awwal Park Stadium
+43;Group H;Senegal;Qatar;Abha;Abha Sports Stadium
+44;Group H;Senegal;New Zealand;Riyadh;King Salman International Stadium
+45;Group H;Senegal;Saudi Arabia;Abha;Abha Sports Stadium
+46;Group H;Qatar;New Zealand;Riyadh;Al Awwal Park Stadium
+47;Group H;Qatar;Saudi Arabia;Neom;NEOM Stadium
+48;Group H;New Zealand;Saudi Arabia;Jeddah;King Abdullah Sports City Stadium
+49;Group I;Ukraine;Croatia;Neom;NEOM Stadium
+50;Group I;Ukraine;Turkey;Abha;Abha Sports Stadium
+51;Group I;Ukraine;Germany;Abha;Abha Sports Stadium
+52;Group I;Croatia;Turkey;Riyadh;Al Awwal Park Stadium
+53;Group I;Croatia;Germany;Neom;NEOM Stadium
+54;Group I;Turkey;Germany;Riyadh;Al Awwal Park Stadium
+55;Group J;Serbia;Brazil;Riyadh;Al Awwal Park Stadium
+56;Group J;Serbia;Argentina;Riyadh;King Salman International Stadium
+57;Group J;Serbia;Ecuador;Khobar;Prince Saud bin Jalawi Stadium
+58;Group J;Brazil;Argentina;Riyadh;King Salman International Stadium
+59;Group J;Brazil;Ecuador;Khobar;Prince Saud bin Jalawi Stadium
+60;Group J;Argentina;Ecuador;Abha;Abha Sports Stadium
+61;Group K;Czech Republic;Chile;Khobar;Prince Saud bin Jalawi Stadium
+62;Group K;Czech Republic;Spain;Jeddah;King Abdullah Sports City Stadium
+63;Group K;Czech Republic;Ghana;Abha;Abha Sports Stadium
+64;Group K;Chile;Spain;Neom;NEOM Stadium
+65;Group K;Chile;Ghana;Abha;Abha Sports Stadium
+66;Group K;Spain;Ghana;Riyadh;King Salman International Stadium
+67;Group L;Sweden;UAE;Riyadh;Al Awwal Park Stadium
+68;Group L;Sweden;Mexico;Khobar;Prince Saud bin Jalawi Stadium
+69;Group L;Sweden;Peru;Jeddah;Prince Abdullah Al-Faisal Stadium
+70;Group L;UAE;Mexico;Abha;Abha Sports Stadium
+71;Group L;UAE;Peru;Riyadh;King Salman International Stadium
+72;Group L;Mexico;Peru;Neom;NEOM Stadium
