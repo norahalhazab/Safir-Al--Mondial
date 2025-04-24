@@ -14,19 +14,20 @@
 The app uses CSV data files to provide recommendations:
 - **Fan Preferences**: Data on fan events and their style.
 - **Markets**: Information on local markets, gender filtering, and place names.
-- **Museums**: List of museums with typology and province-based filtering.
+- **List_of_public_and_private_museums**: List of museums with typology and province-based filtering.
 - **Restaurants**: Data on restaurants available in various cities in Saudi Arabia.
 - **Matches**: Sports event schedules.
+- **Stadiums**:list of Stadiums in the 5 host city for the world cup.
 
 ## Technology Stack:
 - **Flask**: For the web framework.
 - **pandas**: For handling and filtering the data.
 - **Google Gemini API**: For generating AI-powered responses through the chatbot.
-- **HTML/CSS/JavaScript**: For front-end design (UI).
+- **HTML**: For front-end design (UI).
 
 ## Figma Prototype:
 You can view the app's **Figma prototype** by downloading the PDF here:
-[Click here to download and view the Figma prototype PDF](https://www.figma.com/design/LoDv61xafTExHhTknEO4Na/Let-s-Travel--Travel-app-home-screens--Community-?node-id=1-2&t=CDpp2yl5UoVIKj8J-1)
+[Click here to download and view the Figma prototype PDF](https://www.figma.com/proto/LoDv61xafTExHhTknEO4Na/Let-s-Travel--Travel-app-home-screens--Community-?node-id=469-693&t=Yv7VehLNE6oAeMEN-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=469%3A693&show-proto-sidebar=1)
 
 Once downloaded, click on the prototype to explore the interactive design and user interface.
 
