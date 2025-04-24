@@ -81,12 +81,12 @@ Once the app is running, open your browser and visit http://127.0.0.1:5000/.
 
 You'll be greeted with a chatbot interface where you can ask about:
 
-Fan events: Example query: "Show me fan events in Riyadh for modern style".
+Fan events: Example query: "Show me fan event in Riyadh for modern style".
 
 Markets: Example query: "What are the markets in Riyadh for unisex?"
 
-Museums: Example query: "Show me historical museums in Riyadh".
 
-Restaurants: Example query: "Find me restaurants in jeddah".
+
+Restaurants: Example query: "Find me restaurant in jeddah".
 
 Fallback: If the message doesn't match any of the above, the chatbot will use Google Gemini to generate a response.
